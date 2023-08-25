@@ -1,0 +1,183 @@
+
+
+
+
+
+#home{
+    background-image: url(/img/excited-audience-watching-confetti-fireworks-having-fun-music-festival-night-copy-space.jpg);
+    background-size: cover;
+    background-position:center ;
+    position: relative;
+} 
+
+
+ .layer{
+    background-color: rgba(129, 11, 11, 0.5);
+    position: absolute;
+    top: 0;
+    left: 0px;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0.9
+}
+
+.test h2 {
+    text-align: center;
+    font-size: 60px;
+    color: #fff;
+   margin-top: 200px;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.test p{
+    text-align: center;
+    color: gold;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+.slide {
+    
+    height: 100vh;
+    width: 280px;
+    z-index: 10;
+    left: -280px;
+    top: 0;
+    color: black;
+    
+    font-size: 36px;
+    text-align: center;
+    background-color: rgb(26, 26, 26);
+    transition: var(--transition);
+    -webkit-transition: var(--transition);
+    -moz-transition: var(--transition);
+    -ms-transition: var(--transition);
+    -o-transition: var(--transition);
+
+}
+
+
+.slide ul li{
+  list-style: none;
+   
+    margin-bottom: 20px;
+}
+.slide ul li a{
+    text-decoration: none;
+}
+
+.slide ul :hover {
+    color: tomato;
+}
+
+
+
+
+
+
+
+
+
+
+
+.openIcon {
+    right: -115px;
+    top: 50%;
+    color: tomato;
+    transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    font-size: 30px;
+    cursor: pointer;
+   
+    transition: var(--transition);
+    -webkit-transition: var(--transition);
+    -moz-transition: var(--transition);
+    -ms-transition: var(--transition);
+    -o-transition: var(--transition);
+
+}
+
+.closeIcon {
+  
+    top: 0;
+    right: 0;
+    font-size: 30px;
+    color: rgb(209, 12, 12);
+}
+
+#count {
+    background-image: url(/img/hiring-concept-with-people-coming-together.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    height: 330px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.titel h3 {
+    text-transform: uppercase;
+    color: #fff;
+    background-color: brown;
+}
+
+
+.titel .titel-main {
+    background-color: bisque;
+    color: blueviolet;
+    text-align: justify;
+    text-transform: capitalize;
+    line-height: 1.8;
+    display: none;
+
+}
+
+
+h1 {
+    padding: 35px;
+    border: 5px solid #FFF;
+    font-weight: 500;
+   
+    text-align: center;
+   
+    font-size: 150PX;
+    color: white;
+    
+   
+    
+}
+
+
+
+.red{
+    color: red;
+}
+
+
+
+
+.pla7:hover{
+    background-color: red;
+    color: aliceblue;
+}
