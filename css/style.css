@@ -4,7 +4,7 @@
 
 
 #home{
-    background-image: url(../img/excited-audience-watching-confetti-fireworks-having-fun-music-festival-night-copy-space.jpg);
+    background-image: url('../img/excited-audience-watching-confetti-fireworks-having-fun-music-festival-night-copy-space.jpg');
     background-size: cover;
     background-position:center ;
     position: relative;
@@ -114,7 +114,7 @@
 }
 
 #count {
-    background-image: url(../img/hiring-concept-with-people-coming-together.jpg);
+    background-image: url('../img/hiring-concept-with-people-coming-together.jpg');
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
